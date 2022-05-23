@@ -1,0 +1,47 @@
+*, body, .fij{
+    background: #f7f8fa;
+}
+
+i{
+    background: none !important;
+}
+.pdn{
+   padding: 3%;
+}
+
+.mgn{
+    margin-top: 10%;
+}
+
+.tamImg{
+    max-width: 450px;
+    min-width: 80%;
+    min-height: 80%;
+}
+
+.bIzq{
+    border-left: 3px solid black;
+}
+
+.cambioColor:hover{
+    color: red;
+    transform: scale(1.2);
+}
+
+.fijo{
+    position: fixed;
+    display: inline-block;
+    bottom: 0px;
+    margin-bottom: 2%;
+    width: 100%;
+}
+
+.carousel-control-prev{
+    margin-left: -10%;
+}
+.carousel-control-next{
+    margin-right: -10%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+ 
+}
